@@ -11,3 +11,5 @@ Included precompiled arm, arm-v7a, arm64-v8a, x86, x86_64.
 * arm64-v8a, x86_64 built with target android-21
 
 #### 18/12/27 - Added OpenSSL 1.1.1a libraries built with *llvm*
+
+#### 20/03/02 - Added OpenSSL 1.1.1d libraries built with *llvm*, 1.1.1a dropped
